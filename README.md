@@ -40,23 +40,28 @@ _We could potentially save some extra bucks if we order some parts on BangGood._
 ## API
 The bulb should have a API that closely matches the Hue light API.
 
-||Get light state|
-|:---------|----------:|
-|Address|`http://<bulb ip address>/api/light/`|
-|Body|`{"on":false}`|
-|Method|GET|
+|         |                       Get light state |
+|:--------|--------------------------------------:|
+| Address | `http://<bulb ip address>/api/light/` |
+| Body    |                        `{"on":false}` |
+| Method  |                                   GET |
 
-||Update light state|
-|:---------|----------:|
-|Address|`http://<bulb ip address>/api/light/state`|
-|Body|`{"on":true}`|
-|Method|PUT|
+|         |                         Update light state |
+|:--------|-------------------------------------------:|
+| Address | `http://<bulb ip address>/api/light/state` |
+| Body    |                              `{"on":true}` |
+| Method  |                                        PUT |
 
-||Update light color|
-|:---------|----------:|
-|Address|`http://<bulb ip address>/api/light/state`|
-|Body|`{"on":true, "sat":254, "bri";254, "hue": 10000}`|
-|Method|PUT|
+|         |                                Update light color |
+|:--------|--------------------------------------------------:|
+| Address |        `http://<bulb ip address>/api/light/state` |
+| Body    | `{"on":true, "sat":254, "bri";254, "hue": 10000}` |
+| Method  |                                               PUT |
+
+## Automatic firmware updates
+It would be very cool and handy if the light could automatically detect if there are online updates and if so install them.
+
+For more information search for OTA or [FOTA](https://harizanov.com/2015/06/firmware-over-the-air-fota-for-esp8266-soc/).
 
 ## Inside Hue
 Some teardown post that can give some insides about the Hue light
