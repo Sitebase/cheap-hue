@@ -26,12 +26,10 @@ This is a list of hardware I will try to use to create an initial prototype of t
 
 The Hue led bulbs are 10W so I will use a few leds to mimic this.
 
-* [E27 Light bulb casing](http://www.dx.com/p/e27-3w-white-light-led-bulb-silver-white-110-240v-257622#.VjIpjq7nsQ8) [current] _€3.80_
-* [E27 Light bulb casing](http://www.dx.com/p/e27-5w-5-led-aluminum-bulb-accessories-shell-silver-81765#.VjIpUK7nsQ8) [optional] _€3.78_
-* [ESP8266](http://www.dx.com/p/esp-07-esp8266-uart-serial-to-wi-fi-wireless-module-with-built-in-antenna-for-arduino-raspberry-pi-375400#.VjItSa7nsQ8) _€4.38_
-* [Power supply](http://www.dx.com/p/7w-led-constant-current-source-power-supply-driver-100-240v-141983#.VjIpAa7nsQ8) _€4.52_
-* [3x 3w RGB LED](http://www.dx.com/p/3w-4-pin-rgb-led-light-bulb-223579#.VjIts67nsQ8) [current] _3 x €1.61 = €4.83_
-* [2x 5-wat RGB LED](http://www.dx.com/p/5-watt-70-lumen-rgb-led-emitter-20999#.VjItp67nsQ8) [optional] _2x€4.09 = €8.18_
+* [E27 Light bulb casing](http://www.dx.com/p/e27-5w-5-led-aluminum-bulb-accessories-shell-silver-81765#.VjIpUK7nsQ8) _€3.78_
+* [ESP8266](http://www.dx.com/p/xghf-flash-4m-esp8266-serial-port-wi-fi-module-blue-376538#.VqFIpFNsNN0) _€4.38_
+* [Power supply](http://www.dx.com/p/lhf4d5xw-5w-led-power-supply-white-blue-85-265v-278857#.VqFIylNsNN0) _€2.52_
+* [3x 3w RGB LED](http://www.dx.com/p/3w-4-pin-rgb-led-light-bulb-223579#.VjIts67nsQ8) _3 x €1.61 = €4.83_
 
 Current total: __€17.53__
 
