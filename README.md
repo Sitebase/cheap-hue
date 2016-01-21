@@ -29,11 +29,26 @@ The Hue led bulbs are 10W so I will use a few leds to mimic this.
 * [E27 Light bulb casing](http://www.dx.com/p/e27-5w-5-led-aluminum-bulb-accessories-shell-silver-81765#.VjIpUK7nsQ8) _€3.78_
 * [ESP8266](http://www.dx.com/p/xghf-flash-4m-esp8266-serial-port-wi-fi-module-blue-376538#.VqFIpFNsNN0) _€4.38_
 * [Power supply](http://www.dx.com/p/lhf4d5xw-5w-led-power-supply-white-blue-85-265v-278857#.VqFIylNsNN0) _€2.52_
+* [Voltage regulator](http://www.dx.com/p/ld1117a-voltage-regulator-ics-10-pcs-156203#.VqFOklNsNN0) _€2.61_
 * [3x 3w RGB LED](http://www.dx.com/p/3w-4-pin-rgb-led-light-bulb-223579#.VjIts67nsQ8) _3 x €1.61 = €4.83_
 
-Current total: __€17.53__
+Current total: __€18.12__
 
 _We could potentially save some extra bucks if we order some parts on BangGood._
+
+## Schematics
+
+### Power supply
+The strange thing is that the data cheat of the power supply mentions the output
+value to be between 6 and 18v. That seems like a large range.
+
+### RGB Led
+
+```RGB led is a common anode (positive) led```
+So one pin is for the positive and the other pins are the negatives for the red,
+green and blue leds.
+
+**image here**
 
 ## API
 The bulb should have a API that closely matches the Hue light API.
