@@ -42,6 +42,9 @@ _We could potentially save some extra bucks if we order some parts on BangGood._
 The strange thing is that the data cheat of the power supply mentions the output
 value to be between 6 and 18v. That seems like a large range.
 
+But we can use the voltage regulator to convert a max input of `30v` to 3.3v and that
+is exactly what we need to power our ESP8266.
+
 ### RGB Led
 
 ```RGB led is a common anode (positive) led```
