@@ -49,9 +49,9 @@ is exactly what we need to power our ESP8266.
 
 ### RGB Led
 
-```RGB led is a common anode (positive) led```
-So one pin is for the positive and the other pins are the negatives for the red,
-green and blue leds.
+![RGB led schematics](assets/rgb-led-schematic.jpg)
+
+kkk
 
 **image here**
 
