@@ -49,11 +49,9 @@ is exactly what we need to power our ESP8266.
 
 ### RGB Led
 
+_Will have to test this if it matches these DX leds._
+
 ![RGB led schematics](assets/rgb-led-schematic.jpg)
-
-kkk
-
-**image here**
 
 ## API
 The bulb should have a API that closely matches the Hue light API.
