@@ -31,7 +31,7 @@ The Hue led bulbs are 10W so I will use a few leds to mimic this.
 * [Power supply](http://www.dx.com/p/lhf4d5xw-5w-led-power-supply-white-blue-85-265v-278857#.VqFIylNsNN0) _€2.52_
 * [Voltage regulator](http://www.dx.com/p/ld1117a-voltage-regulator-ics-10-pcs-156203#.VqFOklNsNN0) _€2.61_
 * [3x 3w RGB LED](http://www.dx.com/p/3w-4-pin-rgb-led-light-bulb-223579#.VjIts67nsQ8) _3 x €1.61 = €4.83_
-
+* Fuse: best to add this if we don't want to [blow up](https://youtu.be/pCZax3vIslo?t=1m12s) our bulb (based on the Power supply)
 * [Led driver](http://www.instructables.com/id/Circuits-for-using-High-Power-LED-s/) _calculate price_
 
 Current total: __€18.12__
