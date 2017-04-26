@@ -54,7 +54,7 @@ _Will have to test this if it matches these DX leds._
 ![RGB led schematics](assets/rgb-led-schematic.jpg)
 
 ## API
-The bulb should have a API that closely matches the Hue light API.
+The bulb should have a API that closely matches the [Hue light API](https://www.sitebase.be/generate-phillips-hue-api-token/).
 
 |         |                       Get light state |
 |:--------|--------------------------------------:|
